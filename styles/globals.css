@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply  text-lg;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-dark;
+  }
+  .title,
+  .section-title {
+    @apply text-6xl lg:text-8xl mb-6 font-bold ;
+  }
+  .h2 {
+    @apply text-5xl lg:text-7xl font-bold;
+  }
+  .pretitle {
+    @apply text-lg lg:text-[22px] text-light mb-4 lg:mb-6 uppercase font-normal;
+  }
+  .pretitle2 {
+    @apply text-lg lg:text-[22px] text-black mb-4 lg:mb-6 uppercase font-normal;
+  }
+  .lead {
+    @apply text-2xl text-light font-normal mb-6;
+  }
+  .mini_latter{
+    @apply text-[#000] tracking-wide text-[1rem];
+  }
+  .link {
+    @apply text-lg text-dark;
+  }
+  .section {
+    @apply py-8 lg:py-[30px];
+  }
+  .btn {
+    @apply rounded-3xl transition flex justify-center items-center;
+  }
+  .btn-lg {
+    @apply h-[50px] px-6 text-xl font-normal;
+  }
+  .btn-md {
+    @apply h-[60px] px-[16px] text-lg font-normal;
+  }
+  .btn-sm {
+    @apply h-[48px] px-[16px] text-lg font-normal;
+  }
+  .btn-accent {
+    @apply text-white bg-[#ba2024] hover:bg-[#a1171b];
+  }
+  .btn-white {
+    @apply text-accent bg-white hover:bg-white/90;
+  }
+  .btn-outline {
+    @apply bg-transparent text-accent border border-accent hover:bg-accent hover:text-white;
+  }
+  .btn-link {
+    @apply text-accent text-xl lg:text-2xl;
+  }
+}
+
+
+.custom-img {
+  background-image: url("../public/bgimage.jpg");
+}
+
+.custom-img2 {
+  background-image: url("../public/bg-image-2.jpeg");
+}
+
+.map-container{
+  width: 100%;
+  height: 100%;
+}
