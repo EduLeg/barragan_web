@@ -105,9 +105,9 @@ const Products_slider = ({ producst, typeof_product }) => {
                                                 <Image
                                                     className="relative h-[17.5rem] w-full"
                                                     src={image}
+                                                    layout="fill"
+                                                    objectFit="contain"
                                                     alt="Next.js Logo"
-                                                    width={500}
-                                                    height={500}
                                                     priority
                                                 />
 
