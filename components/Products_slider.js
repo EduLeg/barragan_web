@@ -8,6 +8,7 @@ import 'swiper/css';
 import { HiOutlineArrowRight } from "react-icons/hi";
 
 
+
 const Products_slider = ({ producst, typeof_product }) => {
     const [item, setItem] = useState({ name: 'todos' });
     const [product, setProduct] = useState([]);
@@ -100,7 +101,15 @@ const Products_slider = ({ producst, typeof_product }) => {
                                     >
                                         {/* card */}
                                         <div className='w-full mx-auto lg:max-w-[300px] xl:max-w-[350px] h-[20rem] overflow-hidden relative  flex flex-col'>
-                                            <div className="basis-4/5 w-full bg-slate-50">
+                                            <div className="basis-4/5 w-full bg-slate-50 overflow-hidden">
+                                                <Image
+                                                    className="relative h-[17.5rem] w-full"
+                                                    src={image}
+                                                    alt="Next.js Logo"
+                                                    width={500}
+                                                    height={500}
+                                                    priority
+                                                />
 
                                             </div>
                                             <div className="basis-1/5 w-full ">

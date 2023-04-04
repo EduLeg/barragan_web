@@ -61,7 +61,7 @@ export default function Aboutus() {
                                 </div>
                                 <div className="z-[2]">
                                     <p className='text-2xl mb-3 font-bold text-white'>Ética</p>
-                                    <p className="text-white text-[1rem]">En Cremerias Barragán enfocamos cada acción en el bienestar de nuestra comunidad y entorno para maximizar nuestro aporte a la vida de cada persona.</p>
+                                    <p className="text-white text-[1rem]">Enfocamos cada acción en el bienestar de nuestra comunidad y entorno para maximizar nuestro aporte a la vida de cada persona.</p>
                                 </div>
                             </div>
 
@@ -84,8 +84,8 @@ export default function Aboutus() {
                                     <div className="absolute -bottom-[5rem] h-[10rem] w-[10rem] rotate-45 bg-[#D12329] z-[4]"></div>
                                 </div>
                                 <div className="z-[2]">
-                                    <p className='text-2xl mb-3 font-bold text-white'>Trabajamos colaboración</p>
-                                    <p className="text-white text-[1rem]">En Cremerias Barragán colaboramos y sumamos esfuerzos para formar una sinergia que nos convierte en una familia.</p>
+                                    <p className='text-2xl mb-3 font-bold text-white'>Trabajamos en colaboración</p>
+                                    <p className="text-white text-[1rem]">Colaboramos y sumamos esfuerzos para formar una sinergia que nos convierte en una familia.</p>
                                 </div>
                             </div>
                             <div className="flex-1 h-[20rem] rounded-lg bg-[#570F11] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 gap-x-[6px] overflow-hidden">
@@ -95,7 +95,7 @@ export default function Aboutus() {
                                 </div>
                                 <div className="z-[2]">
                                     <p className='text-2xl mb-3 font-bold text-white'>Construimos confianza</p>
-                                    <p className="text-white text-[1rem]">En Cremerias Barragán cultivamos relaciones con integridad y confianza tanto con nuestros empleados como con nuestros shareholders y stakeholders.</p>
+                                    <p className="text-white text-[1rem]">Cultivamos relaciones con integridad y confianza tanto con nuestros empleados como con nuestros accionistas y grupos de interés.</p>
                                 </div>
 
                             </div>
