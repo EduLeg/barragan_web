@@ -1,4 +1,4 @@
-import React from "react"
+import React, { Suspense } from "react"
 
 import Hero from '../components/Hero';
 import Header from "../components/Header";
@@ -9,19 +9,24 @@ import Products_slider from "../components/Products_slider";
 import Workwithus from "../components/Workwithus";
 import Footer from "../components/Footer";
 import Shops from "../components/Shops";
+import loading from "./loading";
+
 
 export default function Home() {
 
   return (
     <div className='overflow-hidden'>
       <Header />
-      <Hero />
-      <Shops />
-      <Products />
-      <Aboutus />
-      <Workwithus />
-      <Contact />
-      <Footer />
+      <Suspense fallback={<loading />}>
+        <Hero />
+        <Shops />
+        <Products />
+        <Aboutus />
+        <Workwithus />
+        <Contact />
+        <Footer />
+      </Suspense>
+
 
 
 
