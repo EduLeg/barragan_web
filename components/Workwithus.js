@@ -32,7 +32,7 @@ export default function Workwithus() {
                     <div className='flex flex-col lg:flex-row lg:items-center lg:gap-x-[30px] relative'>
 
                         <div className='flex-1' data-aos='fade-right' data-aos-offset='400'>
-                            <div className='pretitle'>!Unete!</div>
+                            <div className='pretitle'>!Únete!</div>
                             <h2 className='title'>Trabaja con nosotros</h2>
                             <p className='lead text-black'>
                                 Siempre estamos en la búsqueda de nuevos talentos y nos encantaría saber mas de ti, déjanos tus datos en el siguiente formulario y nosotros nos pondremos en contacto contigo, recuerda llenar todos los campos completamente y utilizar información verídica.
