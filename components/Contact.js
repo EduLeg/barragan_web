@@ -54,7 +54,7 @@ export default function Contact() {
                                     <input type="text" name="motivo" id="input-group-1" class="bg-[#ffffff12] border border-gray-800  text-sm rounded-lg  block w-full pl-10 p-2.5 text-black" placeholder="Subject" />
                                 </div>
 
-                                <label for="message" class="block mb-2 text-sm font-medium text-gray-900 ">Mensaje</label>
+                                <label class="block mb-2 text-sm font-medium text-gray-900 ">Mensaje</label>
                                 <textarea id="message" name="message" rows="4" class="mb-6 block p-2.5 w-full text-sm text-white border-gray-600 bg-[#ffffff12] border " placeholder="Write your thoughts here..."></textarea>
 
                                 <button type="submit" value="Send" className="h-[3rem] w-[5rem] flex justify-center items-center bg-[#ba2024] rounded-lg hover:bg-[#DC2E33] p-4">

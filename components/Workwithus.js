@@ -48,34 +48,34 @@ export default function Workwithus() {
 
 
                                 {/* nombre */}
-                                <div class="relative mb-6">
-                                    <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-black text-lg font-semibold">
+                                <div className="relative mb-6">
+                                    <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-black text-lg font-semibold">
                                         <IoPersonOutline />
                                     </div>
-                                    <input type="text" name="user_name" id="input-group-1" class="bg-[#ffffff12] border border-gray-600  text-sm rounded-lg  block w-full pl-10 p-2.5 text-black" placeholder="Nombre" />
+                                    <input type="text" name="user_name" id="input-group-1" className="bg-[#ffffff12] border border-gray-600  text-sm rounded-lg  block w-full pl-10 p-2.5 text-black" placeholder="Nombre" />
                                 </div>
 
 
                                 {/* APELLIDO */}
-                                <div class="relative mb-6">
-                                    <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-black text-lg font-semibold">
+                                <div className="relative mb-6">
+                                    <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-black text-lg font-semibold">
                                         <IoPersonOutline />
                                     </div>
-                                    <input type="text" name="user_lastname" id="input-group-1" class="bg-[#ffffff12] border border-gray-600  text-sm rounded-lg  block w-full pl-10 p-2.5 text-black" placeholder="Apellidos" />
+                                    <input type="text" name="user_lastname" id="input-group-1" className="bg-[#ffffff12] border border-gray-600  text-sm rounded-lg  block w-full pl-10 p-2.5 text-black" placeholder="Apellidos" />
                                 </div>
                                 {/* EMAIL */}
-                                <div class="relative mb-6">
-                                    <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-black text-lg font-semibold">
+                                <div className="relative mb-6">
+                                    <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-black text-lg font-semibold">
                                         <IoMailUnreadOutline />
                                     </div>
-                                    <input type="email" name="user_email" id="input-group-1" class="bg-[#ffffff12] border border-gray-600  text-sm rounded-lg  block w-full pl-10 p-2.5 text-black" placeholder="Email" />
+                                    <input type="email" name="user_email" id="input-group-1" className="bg-[#ffffff12] border border-gray-600  text-sm rounded-lg  block w-full pl-10 p-2.5 text-black" placeholder="Email" />
                                 </div>
                                 {/* NUMBER */}
-                                <div class="relative mb-6">
-                                    <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-black text-lg font-semibold">
+                                <div className="relative mb-6">
+                                    <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-black text-lg font-semibold">
                                         <IoMailUnreadOutline />
                                     </div>
-                                    <input type="number" name="celphone" id="input-group-1" class="bg-[#ffffff12] border border-gray-600  text-sm rounded-lg  block w-full pl-10 p-2.5 text-black" placeholder="Telefono" />
+                                    <input type="number" name="celphone" id="input-group-1" className="bg-[#ffffff12] border border-gray-600  text-sm rounded-lg  block w-full pl-10 p-2.5 text-black" placeholder="Telefono" />
                                 </div>
 
                                 <button type="submit" value="Send" className="h-[3rem] w-[5rem] flex justify-center items-center bg-[#ba2024] rounded-lg hover:bg-[#DC2E33] p-4">
