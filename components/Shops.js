@@ -4,7 +4,7 @@ import { HiChatAlt2, HiPhoneIncoming, HiUser, HiOutlineBadgeCheck, HiOutlineFing
 import Googlemaps from "./Googlemaps";
 export default function Shops() {
     return (
-        <section className='section flex flex-col items-center justify-center gap-y-[30px]'>
+        <section className='section flex flex-col items-center justify-center gap-y-[30px] overflow-hidden'>
             <a name="shops" className='w-full '>
 
 

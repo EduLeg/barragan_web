@@ -7,7 +7,7 @@ export default function Aboutus() {
     const { image } = aboutus;
     return (
 
-        <section className='section flex flex-col items-center gap-y-[30px]'>
+        <section className='section flex flex-col items-center gap-y-[30px] overflow-hidden'>
             <a name="nostros">
 
 
