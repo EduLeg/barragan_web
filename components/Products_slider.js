@@ -103,11 +103,11 @@ const Products_slider = ({ producst, typeof_product }) => {
                                         <div className='w-full mx-auto lg:max-w-[300px] xl:max-w-[350px] h-[20rem] overflow-hidden relative  flex flex-col'>
                                             <div className="basis-4/5 w-full bg-slate-50 overflow-hidden">
                                                 <Image
-                                                    className="relative h-[17.5rem] w-full"
+                                                    className="relative h-[17rem] w-full"
                                                     src={image}
-                                                    layout="fill"
-                                                    objectFit="contain"
                                                     alt="Next.js Logo"
+                                                    width={500}
+                                                    height={500}
                                                     priority
                                                 />
 
