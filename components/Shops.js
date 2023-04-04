@@ -13,20 +13,20 @@ export default function Shops() {
                         <HiChatAlt2 className="text-[3rem] text-light" />
                         <div>
                             <h1 className="text-[#888] tracking-wide font-light text-[1rem]">Horario de Atencion</h1>
-                            <h1 className="text-[#888] tracking-wide font-light text-[0.8rem]">LUN A SAB: 9:30AM – 8PM</h1>
+                            <h1 className="text-[#888] tracking-wide font-light text-[0.8rem]">LUN A SAB: 5:00AM – 3PM</h1>
                         </div>
                     </div>
                     <div className=" flex-1 btn flex space-x-6">
                         <HiPhoneIncoming className="text-[3rem] text-light" />
                         <div>
-                            <h1 className="text-[#888] tracking-wide font-light text-[1rem]">Tel. 8475.4431</h1>
+                            <h1 className="text-[#888] tracking-wide font-light text-[1rem]">Tel. 3336430055</h1>
                             <h1 className="text-[#888] tracking-wide font-light text-[0.8rem]">LLAMA Y PIDE A DOMICILIO</h1>
                         </div>
                     </div>
                     <div className=" flex-1 btn flex space-x-6">
                         <HiUser className="text-[3rem] text-light" />
                         <div>
-                            <h1 className="text-[#888] tracking-wide font-light text-[1rem]">Tel. 8478.7439</h1>
+                            <h1 className="text-[#888] tracking-wide font-light text-[1rem]">Tel. 3311765951</h1>
                             <h1 className="text-[#888] tracking-wide font-light text-[0.8rem]">SERVICIO A CLIENTES</h1>
                         </div>
                     </div>
