@@ -75,7 +75,7 @@ export default function Shops() {
 
                                 <p className='mini_latter text-white font-bold  z-[2]'>Abastos</p>
                                 <p className=' text-white text-[0.9rem]  z-[2]'> Mercado de abastos, C. 15, 45080 Guadalajara, Jal.</p>
-                                <p className=' text-white text-[0.9rem]  z-[2] lg:w-[29rem]'>Horario: Lunes a viernes de 6:00 a 4:00. Sábados 6:00 a 3:00 .Domingos 6:00 a 2:00 Teléfono: 3320155466</p>
+                                <p className=' text-white text-[0.7rem]  z-[2] lg:w-[29rem]'>Horario: Lunes a viernes de 6:00 a 4:00. Sábados 6:00 a 3:00 .Domingos 6:00 a 2:00 Teléfono: 3320155466</p>
 
 
                             </div>
@@ -89,7 +89,7 @@ export default function Shops() {
                                 </div>
                                 <p className='mini_latter text-white font-bold  z-[2]'>Huertas</p>
                                 <p className=' text-white text-[0.9rem]  z-[2]'>  Huertas 685, Jardines de Guadalupe, 44740 Guadalajara, Jal.</p>
-                                <p className=' text-white text-[0.9rem]  z-[2]'>Horario:  5:00 am - 3:00pm Teléfono: 3340406374 </p>
+                                <p className=' text-white text-[0.7rem]  z-[2]'>Horario:  5:00 am - 3:00pm Teléfono: 3340406374 </p>
 
                             </div>
                             <div className="w-full h-[8rem] rounded-lg bg-[#570F11] shadow-[#00000084] drop-shadow-2xl flex flex-col p-3 relative  overflow-hidden">
@@ -103,7 +103,7 @@ export default function Shops() {
 
                                 <p className='mini_latter text-white font-bold  z-[2]'>Felipe Angeles </p>
                                 <p className=' text-white text-[0.9rem]  z-[2]'>Calle Felipe Angeles 472, Jardines de Guadalupe, 44740 Guadalajara, Jal.</p>
-                                <p className=' text-white text-[0.9rem]  z-[2]'>Horario:  5:00 am - 3:00pm Teléfono: 3336430055 </p>
+                                <p className=' text-white text-[0.7rem]  z-[2]'>Horario:  5:00 am - 3:00pm Teléfono: 3336430055 </p>
 
                             </div>
 
