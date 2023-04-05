@@ -54,7 +54,7 @@ export default function Aboutus() {
 
                         <div className="flex lg:flex-row flex-col lg:gap-x-[20px] gap-y-[10px] flex-wrap items-center justify-between">
 
-                            <div className="flex-1 h-[20rem] rounded-lg bg-[#ba2024] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 overflow-hidden">
+                            <div className="flex-1 h-[20rem] rounded-lg bg-[#ba2024] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 overflow-hidden relative">
                                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
                                     <div className="absolute -bottom-[6rem] h-[15rem] w-[15rem] rounded-full bg-[#DC2E33] z-[1]"></div>
                                     <div className="absolute -bottom-[3rem] h-[6rem] w-[6rem] rounded-full bg-[#ba2024] z-[4]"></div>
@@ -66,7 +66,7 @@ export default function Aboutus() {
                             </div>
 
 
-                            <div className="flex-1 h-[20rem] rounded-lg bg-[#AE1E22] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 gap-x-[6px] overflow-hidden">
+                            <div className="flex-1 h-[20rem] rounded-lg bg-[#AE1E22] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 gap-x-[6px] overflow-hidden relative">
                                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
                                     <div className="absolute -right-[5rem] h-[15rem] w-[15rem] rounded-full bg-[#DC2E33] z-[1]"></div>
                                     <div className="absolute -left-[5rem] h-[15rem] w-[15rem] rounded-full bg-[#7a15189a] z-[4]"></div>
@@ -78,7 +78,7 @@ export default function Aboutus() {
 
 
                             </div>
-                            <div className="flex-1 h-[20rem] rounded-lg bg-[#8C181C] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 gap-x-[6px] overflow-hidden">
+                            <div className="flex-1 h-[20rem] rounded-lg bg-[#8C181C] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 gap-x-[6px] overflow-hidden relative">
                                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
                                     <div className="absolute -bottom-[3rem] h-[10rem] w-[10rem] rotate-45  bg-[#7a15189a] z-[1]"></div>
                                     <div className="absolute -bottom-[5rem] h-[10rem] w-[10rem] rotate-45 bg-[#D12329] z-[4]"></div>
@@ -88,7 +88,7 @@ export default function Aboutus() {
                                     <p className="text-white text-[1rem]">Colaboramos y sumamos esfuerzos para formar una sinergia que nos convierte en una familia.</p>
                                 </div>
                             </div>
-                            <div className="flex-1 h-[20rem] rounded-lg bg-[#570F11] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 gap-x-[6px] overflow-hidden">
+                            <div className="flex-1 h-[20rem] rounded-lg bg-[#570F11] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 gap-x-[6px] overflow-hidden relative">
                                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
                                     <div className="absolute left-[0rem] h-[10rem] w-[10rem] rounded-full bg-[#DC2E33] z-[1]"></div>
                                     <div className="absolute right-[0rem] bottom-[0rem] h-[5rem] w-[5rem] rounded-full bg-[#7a15189a] z-[4]"></div>
@@ -99,7 +99,7 @@ export default function Aboutus() {
                                 </div>
 
                             </div>
-                            <div className="flex-1 h-[20rem] rounded-lg bg-[#1E0B0B] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 gap-x-[6px] overflow-hidden">
+                            <div className="flex-1 h-[20rem] rounded-lg bg-[#1E0B0B] shadow-[#00000084] drop-shadow-2xl flex flex-col p-2 gap-x-[6px] overflow-hidden relative">
                                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
                                     <div className="absolute -top-[2rem] -left-[2rem] h-[10rem] w-[10rem]  bg-[#3C1616] z-[1]"></div>
                                     <div className="absolute right-[0rem] bottom-[0rem] h-[5rem] w-[5rem] bg-[#602323] z-[4]"></div>
