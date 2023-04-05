@@ -46,7 +46,7 @@ export default function Hero() {
 
 
                             <a href={'#shops'} className='btn btn-md lg:btn-lg btn-accent flex justify-center items-center lg:gap-x-4'>
-                                sucursales
+                                Sucursales
                                 <BsShopWindow />
                             </a>
                             <a href={'#contacto'} className='btn btn-md lg:btn-lg btn-accent flex justify-center items-center lg:gap-x-4'>

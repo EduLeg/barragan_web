@@ -12,7 +12,7 @@ export default function Shops() {
                     <div className=" flex-1 btn flex space-x-6">
                         <HiChatAlt2 className="text-[3rem] text-light" />
                         <div>
-                            <h1 className="text-[#888] tracking-wide font-light text-[1rem]">Horario de Atencion</h1>
+                            <h1 className="text-[#888] tracking-wide font-light text-[1rem]">Horario de Atención</h1>
                             <h1 className="text-[#888] tracking-wide font-light text-[0.8rem]">LUN A SAB: 5:00AM – 3PM</h1>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ export default function Shops() {
                     <div className='flex flex-col lg:flex-row  lg:gap-x-[10px] relative'>
 
                         <div className='flex-1 flex flex-col items-stretch' data-aos='fade-left' data-aos-offset='300'>
-                            <div className='pretitle text-left'>!Conocenos!</div>
+                            <div className='pretitle text-left'>¡Conócenos!</div>
                             <h2 className='title self-center'>Sucursales</h2>
                             <div className="h-[24rem] lg:w-[30rem] w-[24rem] self-center">
                                 <Googlemaps />
