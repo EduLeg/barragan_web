@@ -38,7 +38,7 @@ export default function Hero() {
                     {/* text */}
                     <div className='flex-1  text-center lg:text-left' data-aos='fade-right' data-aos-offset='500'>
 
-                        <h2 className='title text-white'>Donde más barato te dan</h2>
+                        <h2 className='title text-white'>Donde más barato te dan 5656ss</h2>
                         <p className='lead text-light'>La preferida de los jaliscienses</p>
                         <div
                             className='flex items-center justify-center lg:justify-start max-w-sm lg:max-w-full mx-auto lg:mx-0 gap-x-2 lg:gap-x-6'
