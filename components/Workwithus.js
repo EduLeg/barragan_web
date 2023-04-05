@@ -14,7 +14,7 @@ export default function Workwithus() {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_tm3bmrd', 'template_c91vgt5', form.current, 'TbGs0j_6-ov0wy0ho')
+        emailjs.sendForm('service_cqtu531', 'template_6nt7nzk', form.current, 'LSIijb2YTFJWKLLBu')
             .then((result) => {
                 console.log(result.text);
                 console.log("Mensaje enviado");

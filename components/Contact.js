@@ -10,7 +10,7 @@ export default function Contact() {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_tm3bmrd', 'template_nflornw', form.current, 'TbGs0j_6-ov0wy0ho')
+        emailjs.sendForm('service_cqtu531', 'template_hcl8m63', form.current, 'LSIijb2YTFJWKLLBu')
             .then((result) => {
                 console.log(result.text);
                 console.log("Mensaje enviado");
