@@ -18,7 +18,7 @@ export default function Aboutus() {
                         <div className='flex-1' data-aos='fade-right' data-aos-offset='400'>
                             <div className='pretitle'>100% Mexicana</div>
                             <h2 className='title'>¿Quiénes somos?</h2>
-                            <p className='lead text-black'>Somos un negocio familiar fundado en 2006  dedicado a la venta de productos como jamones, quesos y salchichas. Con el tiempo, la empresa ha abierto nuevas sucursales y ha aumentado el número de empleados. Además de vender productos de calidad, nos preocupamos por contribuir a la economía de las familias.</p>
+                            <p className='lead text-black'>Somos un negocio familiar fundado en 2006  dedicado a la venta de productos lácteos, y derivados, embutidos y abarrotes. Con el tiempo, la empresa ha abierto nuevas sucursales y ha aumentado el número de empleados. Además de vender productos de calidad, nos preocupamos por contribuir a la economía de las familias.</p>
 
                         </div>
                         {/* image */}

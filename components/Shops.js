@@ -59,7 +59,7 @@ export default function Shops() {
                                 </div>
 
                                 <p className='mini_latter text-white font-bold  z-[2]'>Santa Margarita</p>
-                                <p className=' text-white text-[0.9rem]  z-[2]'>  45140, Av. Sta. Margarita 137A, Santa Margarita 1a Secc., Zapopan, Jal.</p>
+                                <p className=' text-white text-[0.7rem]  z-[2]'>  45140, Av. Sta. Margarita 137A, Santa Margarita 1a Secc., Zapopan, Jal.</p>
                                 <p className=' text-white text-[0.7rem]  z-[2]'>Horario: 7:00am- 4:00pm Teléfono: 3320155466 </p>
 
 
@@ -73,10 +73,9 @@ export default function Shops() {
                                     </div>
                                 </div>
 
-                                <p className='mini_latter text-white font-bold  z-[2]'>Abastos</p>
+                                <p className='mini_latter text-white font-bold  z-[2]'> Mercado de Abastos</p>
                                 <p className=' text-white text-[0.7rem]  z-[2]'> Mercado de abastos, C. 15, 45080 Guadalajara, Jal.</p>
-                                <p className=' text-white text-[0.7rem]  z-[2] lg:w-[29rem]'>Horario: Lunes a viernes de 6:00 a 4:00. Sábados 6:00 a 3:00 .Domingos 6:00 a 2:00 Teléfono: 3310840256</p>
-                                <p className=' text-white text-[0.5rem]  z-[2] lg:w-[29rem]'>Teléfono: 3310840256</p>
+                                <p className=' text-white text-[0.7rem]  z-[2] lg:w-[29rem]'>Horario: Lunes a viernes de 6:00am a 4:00pm. Sábados 6:00am a 3:00pm .Domingos 6:00am a 2:00pm Teléfono: 3310840256 </p>
 
 
                             </div>
@@ -89,7 +88,7 @@ export default function Shops() {
                                     </div>
                                 </div>
                                 <p className='mini_latter text-white font-bold  z-[2]'>Huertas</p>
-                                <p className=' text-white text-[0.9rem]  z-[2]'>  Huertas 685, Jardines de Guadalupe, 44740 Guadalajara, Jal.</p>
+                                <p className=' text-white text-[0.7rem]  z-[2]'>  Huertas 685, Jardines de Guadalupe, 44740 Guadalajara, Jal.</p>
                                 <p className=' text-white text-[0.7rem]  z-[2]'>Horario:  5:00 am - 3:00pm Teléfono: 3340406374 </p>
 
                             </div>
@@ -102,8 +101,8 @@ export default function Shops() {
                                     </div>
                                 </div>
 
-                                <p className='mini_latter text-white font-bold  z-[2]'>Felipe Angeles </p>
-                                <p className=' text-white text-[0.9rem]  z-[2]'>Calle Felipe Angeles 472, Jardines de Guadalupe, 44740 Guadalajara, Jal.</p>
+                                <p className='mini_latter text-white font-bold  z-[2]'> Mercado Felipe Ángeles </p>
+                                <p className=' text-white text-[0.7rem]  z-[2]'>Calle Felipe Angeles 472, Jardines de Guadalupe, 44740 Guadalajara, Jal.</p>
                                 <p className=' text-white text-[0.7rem]  z-[2]'>Horario:  5:00 am - 3:00pm Teléfono: 3336430055 </p>
 
                             </div>
