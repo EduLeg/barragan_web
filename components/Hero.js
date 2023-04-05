@@ -7,7 +7,7 @@ import { BsArrowDown, BsShopWindow } from "react-icons/bs";
 export default function Hero() {
     const { image } = hero;
     return (
-        <section className="bg-fixed bg-center bg-cover custom-img w-screen">
+        <section className="bg-fixed bg-center bg-cover custom-img w-screen relative">
             <div className='container flex items-center justify-center h-screen m-auto mb-3 pt-10 w-full relative'>
 
                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
