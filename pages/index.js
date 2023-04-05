@@ -10,8 +10,6 @@ import Workwithus from "../components/Workwithus";
 import Footer from "../components/Footer";
 import Shops from "../components/Shops";
 import loading from "./loading";
-import Nuevoapartado from "../components/Nuevoapartado";
-
 export default function Home() {
 
   return (
@@ -25,7 +23,6 @@ export default function Home() {
         <Workwithus />
         <Contact />
         <Footer />
-        <Nuevoapartado/>
       </Suspense>
 
 
