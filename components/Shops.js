@@ -75,7 +75,7 @@ export default function Shops() {
 
                                 <p className='mini_latter text-white font-bold  z-[2]'>Abastos</p>
                                 <p className=' text-white text-[0.9rem]  z-[2]'> Mercado de abastos, C. 15, 45080 Guadalajara, Jal.</p>
-                                <p className=' text-white text-[0.7rem]  z-[2] lg:w-[29rem]'>Horario: Lunes a viernes de 6:00 a 4:00. Sábados 6:00 a 3:00 .Domingos 6:00 a 2:00 Teléfono: 3320155466</p>
+                                <p className=' text-white text-[0.5rem]  z-[2] lg:w-[29rem]'>Horario: Lunes a viernes de 6:00 a 4:00. Sábados 6:00 a 3:00 .Domingos 6:00 a 2:00 Teléfono: 3310840256</p>
 
 
                             </div>
