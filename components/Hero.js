@@ -42,8 +42,6 @@ export default function Hero() {
                         <p className='lead text-light'>La preferida de los jaliscienses</p>
                         <div
                             className='flex items-center justify-center lg:justify-start max-w-sm lg:max-w-full mx-auto lg:mx-0 gap-x-2 lg:gap-x-6'
-                            data-aos='fade-down'
-                            data-aos-delay='700'
                         >
 
 

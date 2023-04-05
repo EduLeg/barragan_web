@@ -37,7 +37,7 @@ export default function Shops() {
 
                     <div className='flex flex-col lg:flex-row  lg:gap-x-[10px] relative'>
 
-                        <div className='flex-1 flex flex-col items-stretch ' data-aos='fade-left' data-aos-offset='300'>
+                        <div className='flex-1 flex flex-col items-stretch' data-aos='fade-left' data-aos-offset='300'>
                             <div className='pretitle text-left'>!Conocenos!</div>
                             <h2 className='title self-center'>Sucursales</h2>
                             <div className="h-[24rem] lg:w-[30rem] w-[24rem] self-center">
