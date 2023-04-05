@@ -25,7 +25,7 @@ export default function Hero() {
 
                 <div className='flex flex-col lg:flex-row items-center lg:gap-x-[30px] p-6 z-[2]'>
 
-                    <div className='flex-1' data-aos='fade-left' data-aos-offset='500'>
+                    <div className='flex-1'>
                         <Image
                             className="relative lg:w-[28rem] lg:h-[23rem] w-[19rem] h-[15rem]"
                             src={image}
@@ -36,7 +36,7 @@ export default function Hero() {
                         />
                     </div>
                     {/* text */}
-                    <div className='flex-1  text-center lg:text-left' data-aos='fade-right' data-aos-offset='500'>
+                    <div className='flex-1 text-center lg:text-left' >
 
                         <h2 className='title text-white'>Donde más barato te dan</h2>
                         <p className='lead text-light'>La preferida de los jaliscienses</p>
