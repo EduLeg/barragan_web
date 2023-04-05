@@ -37,7 +37,7 @@ const Mark4 = {
 function MyComponent() {
     const { isLoaded } = useJsApiLoader({
         id: 'google-map-script',
-        googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY2
+        googleMapsApiKey: "AIzaSyCgMZZSgFlBsX_yOmTdjFf9G5i_BDl2h54"
     })
 
     const [map, setMap] = React.useState(null)
