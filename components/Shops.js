@@ -49,7 +49,7 @@ export default function Shops() {
 
                         <div className='flex-1 flex flex-col gap-y-[10px] p-6' data-aos='fade-right' data-aos-offset='400'>
 
-                            <div className="w-full lg:h-[8rem] rounded-lg bg-[#ba2024] shadow-[#00000084] drop-shadow-2xl flex flex-col p-3   overflow-hidden">
+                            <div className="w-full lg:h-[8rem] rounded-lg bg-[#ba2024] shadow-[#00000084] drop-shadow-2xl flex flex-col p-3 relative  overflow-hidden">
                                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
                                     <div className="absolute -bottom-[3rem] h-[10rem] w-[10rem] rotate-45  bg-[#7a15189a]"></div>
                                     <div className="absolute -bottom-[5rem] h-[10rem] w-[10rem] rotate-45 bg-[#D12329] "></div>
@@ -64,7 +64,7 @@ export default function Shops() {
 
 
                             </div>
-                            <div className="w-full h-[8rem] rounded-lg bg-[#AE1E22] shadow-[#00000084] drop-shadow-2xl flex flex-col p-3   overflow-hidden">
+                            <div className="w-full h-[8rem] rounded-lg bg-[#AE1E22] shadow-[#00000084] drop-shadow-2xl flex flex-col p-3 relative  overflow-hidden">
                                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
                                     <div className="absolute -top-[3rem] h-[10rem] w-[10rem] rotate-45  bg-[#7a15189a]"></div>
                                     <div className="absolute -top-[5rem] h-[10rem] w-[10rem] rotate-45 bg-[#D12329] "></div>
@@ -79,7 +79,7 @@ export default function Shops() {
 
 
                             </div>
-                            <div className="w-full h-[8rem] rounded-lg bg-[#8C181C] shadow-[#00000084] drop-shadow-2xl flex flex-col p-3   overflow-hidden">
+                            <div className="w-full h-[8rem] rounded-lg bg-[#8C181C] shadow-[#00000084] drop-shadow-2xl flex flex-col p-3 relative  overflow-hidden">
                                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
                                     <div className="absolute -bottom-[8rem] right-0 h-[15rem] w-[15rem] rounded-full bg-[#DC2E33] z-[1]"></div>
                                     <div className="absolute -bottom-[3rem] h-[6rem] w-[6rem] rounded-full bg-[#ba2024] z-[4]"></div>
@@ -92,7 +92,7 @@ export default function Shops() {
                                 <p className=' text-white text-[0.9rem]  z-[2]'>Horario:  5:00 am - 3:00pm Teléfono: 3340406374 </p>
 
                             </div>
-                            <div className="w-full h-[8rem] rounded-lg bg-[#570F11] shadow-[#00000084] drop-shadow-2xl flex flex-col p-3   overflow-hidden">
+                            <div className="w-full h-[8rem] rounded-lg bg-[#570F11] shadow-[#00000084] drop-shadow-2xl flex flex-col p-3 relative  overflow-hidden">
                                 <div className="absolute inset-0 inline-flex items-center justify-center z-[1]">
                                     <div className="absolute -top-[8rem] right-0 h-[15rem] w-[15rem] rounded-full bg-[#DC2E33] z-[1]"></div>
                                     <div className="absolute -top-[3rem] h-[6rem] w-[6rem] rounded-full bg-[#ba2024] z-[4]"></div>
