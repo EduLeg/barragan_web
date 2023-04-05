@@ -60,7 +60,7 @@ export default function Shops() {
 
                                 <p className='mini_latter text-white font-bold  z-[2]'>Santa Margarita</p>
                                 <p className=' text-white text-[0.9rem]  z-[2]'>  45140, Av. Sta. Margarita 137A, Santa Margarita 1a Secc., Zapopan, Jal.</p>
-                                <p className=' text-white text-[0.9rem]  z-[2]'>Horario: 7:00am- 4:00pm Teléfono: 3320155466 </p>
+                                <p className=' text-white text-[0.7rem]  z-[2]'>Horario: 7:00am- 4:00pm Teléfono: 3320155466 </p>
 
 
                             </div>
