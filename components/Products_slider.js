@@ -42,7 +42,7 @@ const Products_slider = ({ producst, typeof_product }) => {
 
         <>
 
-            <div className="h-[25rem]">
+            <div className="h-[25rem] lg:p-0 p-4">
                 <div className="absolute lg:h-[23rem] lg:visible invisible w-full">
                     <div className="absolute bottom-0 right-[1rem]">
                         <div className="text-[2rem] text-black  ">
@@ -63,17 +63,17 @@ const Products_slider = ({ producst, typeof_product }) => {
                             </ul>
                         </nav>
                     </div>
-                    <div className='bg-red h-[12rem] w-[50rem] basis-9/12 '>
+                    <div className='bg-red h-[7rem] lg:h-[12rem] lg:w-[50rem] w-[30rem] basis-9/12'>
 
 
                         <Swiper
-                            slidesPerView={3}
+                            slidesPerView={2}
                             spaceBetween={30}
                             grabCursor={true}
                             loop={false}
                             breakpoints={{
                                 640: {
-                                    slidesPerView: 1,
+                                    slidesPerView: 2,
                                     spaceBetween: 10,
                                 },
                                 768: {
