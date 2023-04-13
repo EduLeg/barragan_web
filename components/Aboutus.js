@@ -29,7 +29,7 @@ export default function Aboutus() {
                                         <HiOutlineBadgeCheck className="text-[3rem] text-white" />
                                     </div>
                                     <p className='text-2xl lg:text-4xl mb-3 font-bold text-black'>Misión</p>
-                                    <p>Producir, comercializar y distribuir alimentos al mayoreo y menudeo de primera calidad. Con el compromiso de satisfacer las necesidades de nuestros clientes y las de sus familias con el mejor servicio y atención</p>
+                                    <p>Producir, comercializar y distribuir alimentos al mayoreo y menudeo de primera calidad. Con el compromiso de satisfacer las necesidades de nuestros clientes y las de sus familias con el mejor servicio y atención.</p>
                                 </div>
                                 <div className="flex flex-col ">
                                     <div className="h-full w-[3.5rem] rounded-lg bg-[#ba2024]  flex items-center justify-center text-xl">
@@ -73,7 +73,7 @@ export default function Aboutus() {
                                 </div>
                                 <div className="z-[2]">
                                     <p className='text-2xl mb-3 font-bold text-white'>Tradición familiar</p>
-                                    <p className="text-white text-[1rem]">Transmitimos los valores y principios de la familia Barragán a través de nuestro personal y nuestros productos</p>
+                                    <p className="text-white text-[1rem]">Transmitimos los valores y principios de la familia Barragán a través de nuestro personal y nuestros productos.</p>
                                 </div>
 
 
