@@ -42,7 +42,7 @@ const Products_slider = ({ producst, typeof_product }) => {
 
         <>
 
-            <div className="h-[25rem] lg:p-0 p-4">
+            <div className="h-[25rem]">
                 <div className="absolute lg:h-[23rem] lg:visible invisible w-full">
                     <div className="absolute bottom-0 right-[1rem]">
                         <div className="text-[2rem] text-black  ">
