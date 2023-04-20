@@ -26,7 +26,7 @@ export default function Contact() {
             <a name="contacto" className='w-full'>
 
 
-                <h2 className='title text-center'>Contáctanos</h2>
+                <h2 className='title text-center'>Quejas y Sugerencias</h2>
                 <div className='container mx-auto bg-[#ffffffa1] p-5 rounded-lg shadow-[#0000001a] drop-shadow-2xl'>
                     <div className='flex flex-col lg:flex-row lg:items-center justify-center lg:gap-x-[30px] '>
                         {/* text */}
