@@ -25,7 +25,8 @@ export default function Contact() {
         <section name="contacto" className='section flex flex-col items-center gap-y-[10px] '>
             <a name="contacto" className='w-full'>
 
-
+                <div className='flex-1' data-aos='fade-right' data-aos-offset='400'>
+                            <div className='pretitle'>Queremos conocer tu opinión</div>
                 <h2 className='title text-center'>Quejas y Sugerencias</h2>
                 <div className='container mx-auto bg-[#ffffffa1] p-5 rounded-lg shadow-[#0000001a] drop-shadow-2xl'>
                     <div className='flex flex-col lg:flex-row lg:items-center justify-center lg:gap-x-[30px] '>
