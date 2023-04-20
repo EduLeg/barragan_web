@@ -73,7 +73,7 @@ export default function Aboutus() {
                                 </div>
                                 <div className="z-[2]">
                                     <p className='text-2xl mb-3 font-bold text-white'>Tradición familiar</p>
-                                    <p className="text-white text-[1rem]">El bienestar, unión y la felicidad de nuestros clientes son puntos claves que dan valor al vínculo familiar que formamos como negocio</p>
+                                    <p className="text-white text-[1rem]">El bienestar, unión y la felicidad de nuestros clientes son puntos claves que dan valor al vínculo familiar que formamos como negocio.</p>
                                 </div>
 
 
