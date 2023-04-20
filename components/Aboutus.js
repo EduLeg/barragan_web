@@ -95,7 +95,7 @@ export default function Aboutus() {
                                 </div>
                                 <div className="z-[2]">
                                     <p className='text-2xl mb-3 font-bold text-white'>Construimos confianza</p>
-                                    <p className="text-white text-[1rem]">Cultivamos relaciones con integridad y confianza tanto con nuestros empleados como con nuestros accionistas y grupos de interés.</p>
+                                    <p className="text-white text-[1rem]">Cultivamos relaciones con integridad y confianza principalmente con nuestros clientes, empleados, accionistas y grupos de interés.</p>
                                 </div>
 
                             </div>
