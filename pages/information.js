@@ -55,6 +55,7 @@ import id32 from '../public/Manteca_Natural.png'
 import id33 from '../public/Catsup_Barragán.png'
 import id34 from '../public/Catsup_Stephania.png'
 
+import id35 from '../public/Jamon Americano-2.jpg'
 
 
 
@@ -142,7 +143,7 @@ export const database_product = {
         {
             id: '6',
             category: 'Jamones',
-            image: id6,
+            image: id35,
             name: 'Jamón Americano Stephania',
             prise: '12.23',
         },
