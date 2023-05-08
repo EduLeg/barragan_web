@@ -133,7 +133,7 @@ export const database_product = {
         {
             id: '1',
             category: 'Jamones',
-            image: id1,
+            image: id44,
             name: 'Jamón pierna supremo',
             prise: '12.23',
         },
@@ -161,7 +161,7 @@ export const database_product = {
         {
             id: '5',
             category: 'Jamones',
-            image: id5,
+            image: id43,
             name: 'Jamón de pavo Stephania',
             prise: '12.23',
         },
@@ -189,7 +189,7 @@ export const database_product = {
         {
             id: '9',
             category: 'Salchichas',
-            image: id9,
+            image: id58,
             name: 'Salchicha de pavo Premium Stephania',
             prise: '12.23',
         },
@@ -203,21 +203,21 @@ export const database_product = {
         {
             id: '11',
             category: 'Salchichas',
-            image: id11,
+            image: id55,
             name: 'Salchicha de pavo Stephania',
             prise: '12.23',
         },
         {
             id: '12',
             category: 'Salchichas',
-            image: id12,
+            image: id55,
             name: 'Salchicha de pavo delgada Stephania',
             prise: '12.23',
         },
         {
             id: '13',
             category: 'Salchichas',
-            image: id13,
+            image: id55,
             name: 'Salchicha de pavo Stephania mini 2.6 kg',
             prise: '12.23',
         },
