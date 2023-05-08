@@ -209,16 +209,16 @@ export const database_product = {
         },
         {
             id: '12',
-            category: 'Salchichas',
-            image: id55,
-            name: 'Salchicha de pavo delgada Stephania',
+            category: 'Otros',
+            image: id39,
+            name: 'Chiles Güeros',
             prise: '12.23',
         },
         {
             id: '13',
-            category: 'Salchichas',
-            image: id55,
-            name: 'Salchicha de pavo Stephania mini 2.6 kg',
+            category: 'Otros',
+            image: id48,
+            name: 'Mermelada de Fresa',
             prise: '12.23',
         },
         {
@@ -359,6 +359,13 @@ export const database_product = {
             category: 'Otros',
             image: id34,
             name: 'Catsup Stephania',
+            prise: '12.23',
+        },
+        {
+            id: '35',
+            category: 'Otros',
+            image: id45,
+            name: 'Leche Condensada',
             prise: '12.23',
         },
 
