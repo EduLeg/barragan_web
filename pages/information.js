@@ -208,20 +208,6 @@ export const database_product = {
             prise: '12.23',
         },
         {
-            id: '12',
-            category: 'Otros',
-            image: id39,
-            name: 'Chiles Güeros',
-            prise: '12.23',
-        },
-        {
-            id: '13',
-            category: 'Otros',
-            image: id48,
-            name: 'Mermelada de Fresa',
-            prise: '12.23',
-        },
-        {
             id: '14',
             category: 'Salchichas',
             image: id59,
@@ -366,6 +352,20 @@ export const database_product = {
             category: 'Otros',
             image: id45,
             name: 'Leche Condensada',
+            prise: '12.23',
+        },
+        {
+            id: '12',
+            category: 'Otros',
+            image: id39,
+            name: 'Chiles Güeros',
+            prise: '12.23',
+        },
+        {
+            id: '13',
+            category: 'Otros',
+            image: id48,
+            name: 'Mermelada de Fresa',
             prise: '12.23',
         },
 
