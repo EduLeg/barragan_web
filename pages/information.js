@@ -175,14 +175,14 @@ export const database_product = {
         {
             id: '7',
             category: 'Jamones',
-            image: id42,
+            image: id40,
             name: 'Jamón cocido cuadrado Stephania',
             prise: '12.23',
         },
         {
             id: '8',
             category: 'Jamones',
-            image: id8,
+            image: id42,
             name: 'Jamón cocido redondo Stephania',
             prise: '12.23',
         },
