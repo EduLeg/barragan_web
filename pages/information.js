@@ -208,13 +208,6 @@ export const database_product = {
             prise: '12.23',
         },
         {
-            id: '14',
-            category: 'Salchichas',
-            image: id59,
-            name: 'Salchicha Viena Stephania 2.5 kg',
-            prise: '12.23',
-        },
-        {
             id: '15',
             category: 'Salchichas',
             image: id59,
