@@ -138,13 +138,6 @@ export const database_product = {
             prise: '12.23',
         },
         {
-            id: '2',
-            category: 'Jamones',
-            image: id2,
-            name: 'Jamón pierna Barragán',
-            prise: '12.23',
-        },
-        {
             id: '3',
             category: 'Jamones',
             image: id36,
