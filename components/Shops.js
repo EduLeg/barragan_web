@@ -13,7 +13,7 @@ export default function Shops() {
                         <HiChatAlt2 className="text-[3rem] text-light" />
                         <div>
                             <h1 className="text-[#888] tracking-wide font-light text-[1rem]">Horario de Atención</h1>
-                            <h1 className="text-[#888] tracking-wide font-light text-[0.8rem]">LUN A SAB: 5:00AM – 3PM</h1>
+                            <h1 className="text-[#888] tracking-wide font-light text-[0.8rem]">LUN A DOM: 5:00AM – 3PM</h1>
                         </div>
                     </div>
                     <div className=" flex-1 btn flex space-x-6">
