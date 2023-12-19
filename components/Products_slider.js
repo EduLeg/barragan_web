@@ -43,13 +43,7 @@ const Products_slider = ({ producst, typeof_product }) => {
         <>
 
             <div className="h-[25rem]">
-                <div className="absolute lg:h-[23rem] lg:visible invisible w-full">
-                    <div className="absolute bottom-0 right-[1rem]">
-                        <div className="text-[2rem] text-black  ">
-                            <HiOutlineArrowRight />
-                        </div>
-                    </div>
-                </div>
+                
 
                 <div className='flex flex-col lg:flex-row lg:gap-x-[30px] gap-y-[30px] p-5  items-center justify-center'>
                     <div className='basis-3/12 h-[15rem]  lg:border-r-2 lg:border-black/20' data-aos='fade-right' data-aos-offset='400'>
