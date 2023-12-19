@@ -5,7 +5,6 @@ import { MdStore } from "react-icons/md";
 import { Swiper, SwiperSlide } from 'swiper/react';
 // import swiper styles
 import 'swiper/css';
-import { HiOutlineArrowRight } from "react-icons/hi";
 
 
 
