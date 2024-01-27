@@ -1,5 +1,6 @@
 import React, { Suspense } from "react"
 
+import Head from 'next/head';
 import Hero from '../components/Hero';
 import Header from "../components/Header";
 import Aboutus from "../components/Aboutus";
@@ -14,6 +15,11 @@ export default function Home() {
 
   return (
     <div className='overflow-hidden'>
+      <Head>
+        <title>Cremerias Barragan</title>
+        <meta name="description" content="Donde más barato te dan,
+La preferida de los jaliscienses" />
+      </Head>
       <Header />
       <Suspense fallback={<loading />}>
         <Hero />
